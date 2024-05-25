@@ -1,0 +1,10 @@
+data:
+  raw:
+    raw_1: "../data/raw/data_matthew.csv"
+    raw_2: "../data/raw/data_apollonia.csv"
+    raw_3: "../data/raw/comments_matthew.csv"
+    raw_4: "../data/raw/comments_apollonia.csv"
+  clean:
+    clean_1: "../data/clean/data_matthew.csv"
+    clean_2: "../data/clean/data_apollonia.csv"
+
